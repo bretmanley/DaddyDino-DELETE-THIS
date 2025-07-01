@@ -1,5 +1,26 @@
+@font-face {
+  font-family: 'GosmickSans';
+  src: url('fonts/GosmickSans.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MinionPro';
+  src: url('fonts/MinionPro-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Purisa';
+  src: url('fonts/Purisa Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 body {
-  font-family: 'Comic Sans MS', cursive;
+  font-family: 'Purisa', bold;
   background-color: #fffce6;
   color: #333;
   margin: 0;
