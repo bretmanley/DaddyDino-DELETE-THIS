@@ -1,0 +1,42 @@
+body {
+  font-family: 'Comic Sans MS', cursive;
+  background-color: #fffce6;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #ffdd57;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.cta {
+  display: inline-block;
+  background-color: #ff5d5d;
+  color: white;
+  padding: 15px 30px;
+  text-decoration: none;
+  border-radius: 25px;
+  margin-top: 20px;
+  font-size: 1.2em;
+}
+
+section {
+  padding: 60px 20px;
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+}
+
+.button {
+  display: inline-block;
+  background-color: #5dbfff;
+  color: white;
+  padding: 12px 24px;
+  margin: 10px;
+  text-decoration: none;
+  border-radius: 20px;
+  font-weight: bold;
+}
